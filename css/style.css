@@ -1,0 +1,332 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.gjs-row{
+  display:table;
+  padding-top:10px;
+  padding-right:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+  width:100%;
+}
+.gjs-cell{
+  width:8%;
+  display:table-cell;
+  height:75px;
+}
+#i9lq{
+  color:black;
+  width:auto;
+  height:59px;
+  margin:0 0 0 20px;
+}
+#iw9u{
+  width:265px;
+  padding:10px 10px 0 1px;
+  margin:0 0 0 0;
+  height:auto;
+}
+#itmi{
+  padding:4px 8px 10px 11px;
+  width:100px;
+  float:right;
+  font-size:12px;
+}
+#iwraf{
+  padding:4px 10px 10px 10px;
+  width:150px;
+  float:right;
+}
+#ic1ar{
+  padding:4px 10px 10px 10px;
+  width:100px;
+  float:right;
+  margin:0 0 0 0;
+}
+#iftci{
+  padding:4px 10px 10px 10px;
+  width:100px;
+  float:right;
+  top:0;
+  position:static;
+}
+#ifxxv{
+  margin-bottom:0cm;
+  line-height:1px;
+  background:transparent;
+  font-size:medium;
+}
+#ioxeo{
+  font-size:10pt;
+}
+#ipl0b{
+  margin-bottom:0cm;
+  line-height:1px;
+  background:transparent;
+}
+#ikyrr{
+  font-size:10pt;
+}
+#ikeg3{
+  margin-bottom:0cm;
+  line-height:1px;
+  background:transparent;
+}
+#i635d{
+  font-size:10pt;
+}
+#icxnj{
+  margin-bottom:0cm;
+  line-height:1px;
+  background:transparent;
+}
+#iefnh{
+  font-size:10pt;
+}
+#ilbuy{
+  color:#30ba76;
+  background-repeat:repeat;
+  background-position:left top;
+  background-attachment:scroll;
+  background-size:auto;
+  background-color:rgba(77,34,85,0.7);
+  padding:6px 10px 10px 10px;
+  float:right;
+  max-width:1000px;
+}
+#idhqb{
+  width:496.8px;
+  margin:0 0 0 0;
+  right:100px;
+}
+#i4cye{
+  height:448px;
+  line-height:-2px;
+  width:0;
+  float:none;
+  margin:40px 0 0 60px;
+  right:0;
+  left:0;
+}
+#i1s4f{
+  width:528.8px;
+}
+#iavrv{
+  padding:10px;
+  margin:9px 0 0 0;
+  letter-spacing:0;
+  font-weight:100;
+  line-height:31px;
+  text-align:left;
+  font-size:2px;
+  float:none;
+  position:relative;
+}
+#ijmxce{
+  padding:10px;
+  font-size:37px;
+  margin:20px 0 0 0;
+}
+#iylcds{
+  margin-bottom:0cm;
+  line-height:1px;
+  background:transparent;
+}
+#i7ijhu{
+  font-size:20pt;
+}
+#i0qhdh{
+  margin-bottom:0cm;
+  line-height:1px;
+  background:transparent;
+}
+#iuqjai{
+  font-size:30pt;
+}
+#iao645{
+  margin-bottom:0cm;
+  line-height:1px;
+  background:transparent;
+}
+#iabckt{
+  font-size:30pt;
+}
+#ik8tkv{
+  margin-bottom:0cm;
+  line-height:1.5px;
+  background:transparent;
+}
+#iylgzq{
+  font-size:10pt;
+  font-family:Ubuntu;
+  background-color:transparent;
+}
+#iv2ji6{
+  margin-bottom:0cm;
+  line-height:1.5px;
+  background:transparent;
+  font-size:medium;
+  text-align:start;
+}
+#isrixi{
+  font-size:13pt;
+}
+#iy1y84{
+  margin-bottom:0cm;
+  line-height:1.5px;
+  background:transparent;
+  font-size:medium;
+}
+#i6gi6v{
+  font-size:13pt;
+}
+#iui4ww{
+  margin-bottom:0cm;
+  line-height:1.5px;
+  background:transparent;
+  font-size:medium;
+}
+#i242gh{
+  font-size:13pt;
+}
+#i6iy6i-2{
+  margin-bottom:0cm;
+  line-height:1.5px;
+  background:transparent;
+  font-size:medium;
+}
+#iyc777{
+  font-size:13pt;
+}
+#ij0mrm{
+  font-size:13pt;
+  font-family:Ubuntu;
+  background-color:transparent;
+  letter-spacing:0px;
+}
+#idwsey{
+  font-size:13pt;
+  font-family:Ubuntu;
+  background-color:transparent;
+  letter-spacing:0px;
+  text-align:left;
+}
+#iw5stk{
+  background-color:transparent;
+  font-family:Ubuntu;
+  font-size:13pt;
+  letter-spacing:0px;
+  text-align:left;
+}
+.link{
+  border:none rgba(0,0,0,0.92);
+  line-height:1px;
+  letter-spacing:0;
+  text-align:left;
+  font-weight:500;
+  color:#016132;
+}
+#i1fdpo{
+  margin:93px 0 0 0;
+}
+#iitnas{
+  color:black;
+  width:286px;
+  position:relative;
+  float:left;
+  min-height:0;
+  margin:0 0 13px 32px;
+}
+#ikubii{
+  color:black;
+  width:300px;
+  height:133px;
+  position:relative;
+  float:left;
+  margin:0 -32px 27px 44px;
+}
+#i3ptcp{
+  color:black;
+  width:301px;
+  height:184px;
+  position:relative;
+  float:right;
+  margin:8px 0 0 0;
+}
+#irmw6v{
+  margin:3px 0 0 0;
+  width:3px;
+  padding:2px 0 0 0;
+}
+#iwg3my{
+  margin:97px 0 0 100px;
+  width:1px;
+  float:left;
+  position:relative;
+}
+#i7conz{
+  padding:10px;
+  text-align:center;
+  color:#ffffff;
+  line-height:1px;
+  font-weight:100;
+  background-color:rgba(245,245,245,0);
+}
+#iy89zl{
+  font-size:14pt;
+}
+#ig36bi{
+  font-size:10pt;
+}
+#iha7z5{
+  font-size:13.3333px;
+}
+#iv9myc{
+  font-size:13.3333px;
+}
+#iaej8q{
+  background-color:rgba(245, 245, 245, 0);
+  font-size:13.3333px;
+}
+#iurtc1{
+  font-size:13.3333px;
+}
+#ijxbug{
+  font-size:10pt;
+}
+#icxncp{
+  margin-bottom:0cm;
+  line-height:1px;
+  background:transparent;
+}
+#i6iasa{
+  padding:4px 10px 10px 10px;
+  width:100px;
+  float:right;
+  top:0;
+  position:static;
+}
+#isdgpa{
+  color:black;
+  width:617px;
+  height:446px;
+  float:right;
+  position:absolute;
+  margin:14px 0 0 70px;
+}
+#i4kcj9{
+  color:black;
+  width:1087px;
+  height:265px;
+  float:left;
+  position:static;
+}
+@media (max-width: 768px){
+  .gjs-cell{
+    width:100%;
+    display:block;
+  }
+}
