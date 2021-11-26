@@ -1,0 +1,246 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    margin: 0;
+  }
+  #frases{
+    padding:10px;
+    text-align:center;
+    color:#ffffff;
+    font-family:monospace;
+    line-height:14px;
+    background-color:rgba(5, 15, 22, 0.97);
+    color:#e0e0e0;
+    font-weight:500
+
+  }
+  #textofinal{
+    padding:10px;
+    text-align:center;
+    color:#ffffff;
+    font-family:monospace;
+    line-height:18px;
+    font-weight:45px;
+    background-color:rgba(1, 21, 26, 0.88);
+  }
+  .gjs-row{
+    display:table;
+    padding-top:10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    padding-left:10px;
+    width:100%;
+  }
+  .gjs-cell{
+    width:8%;
+    display:table-cell;
+    height:75px;
+  }
+  #imagen1{
+    color:black;
+    width:210px;
+    height:50px;
+  }
+  #vinf{
+    color:black;
+    width:30px;
+    height:30px;
+  }
+  #imagen2{
+      width:500px;
+      height:200;
+      margin:50px;
+      float:right
+  }
+  #video1{
+    height:410px;
+    width:607px;
+    margin:-360px 0 0 550px;
+    float:none;
+ }
+  #vin1{
+    padding:10px;
+    float:right;
+    font-family:Ubuntu;
+    display:inline;
+    position:static;
+  }
+  #vin2{
+    padding:10px;
+    float:right;
+    font-family:Ubuntu;
+    display:inline;
+    position:static;
+  }
+  #vin3{
+    padding:10px;
+    float:right;
+    font-family:Ubuntu;
+    display:inline;
+    position:static;
+  }
+  #vin4{
+    padding:10px;
+    float:right;
+    font-family:Ubuntu;
+    display:inline;
+    position:static;
+  }
+  #vin5{
+    padding:10px;
+    float:right;
+    font-family:Ubuntu;
+    display:inline;
+    position:static;
+  }
+  #vin6{
+    padding:10px;
+    float:right;
+    font-family:Ubuntu;
+    display:inline;
+    position:static;
+  }
+  #vinface{
+    padding:12px;
+    font:rgb(255, 255, 255);
+    float:none;
+    font-family:Ubuntu;
+    position:static;
+
+  }
+  .link{
+    color:#000000;
+    text-align:center;
+    font-size:14px;
+  }
+  .link2{
+    color:rgb(255, 255, 255);
+    text-align:center;
+    font-size:16px;
+  }
+  #itexg{
+    float:right;
+    max-width:550px;
+    margin:-21px 0 0 0;
+    background-color:rgba(14, 75, 89, 0.94);
+  }
+  #texto1{
+    padding:10px;
+    margin:70px 0 0 66px;
+    min-height:0;
+    width:200px;
+    font-family:Ubuntu;
+    font-size:22px;
+    color:rgba(0,0,0,0.72);
+  }
+  #texto2{
+    padding:10px;
+    margin:-23px 0 0 54px;
+    max-width:550px;
+    font-family:Ubuntu;
+    font-weight:600;
+    font-size:45.5px;
+  }
+  #texto3{
+    padding:10px;
+    font-family:Ubuntu;
+    font-size:14.5px;
+    max-width:400px;
+    margin:-11px 0 0 207px;
+    color:rgba(0,0,0,0.74);
+  }
+  #texto4{
+    padding:10px;
+    font-family:Ubuntu;
+    margin:13px 0 0 56px;
+    max-width:500px;
+    font-weight:600;
+    font-size:17.5px;
+  }
+  #texto5{
+    padding:10px;
+    max-width:500px;
+    margin:-18px 0 0 56px;
+    font-family:Ubuntu;
+    text-align:inherit;
+    font-size:17.5px;
+    color:rgba(0,0,0,0.86);
+  }
+  #texto6{
+    padding:10px 20px 10px 50px;
+    margin: 0px 0 0 0;
+    font-family:Ubuntu;
+    font-weight:500;
+    font-size:20px;
+    background-color:#0f051b;
+    color:#b9d4d4;
+  }
+  #fondol{
+    height:inherit;
+    background-color:rgba(245, 245, 245, 0.61);
+  }
+  #imagen3{
+    width:1200px;
+    height:200;
+    margin:10px;
+    float:none;
+}
+#imagen4{
+  width:1200px;
+  height:200;
+  margin:5px;
+  float:none;
+}
+#tzu{
+  width:500px;
+  height:400;
+  margin:10px;
+  float:none;
+}
+ .slider {
+   margin:-355px auto auto 650px;
+   width:510px;
+   height:410px;
+   overflow:scroll;
+}
+
+.slider ul {
+    display:inline;
+    padding: 0;
+    width:680;
+    height:auto;
+
+    animation: cambio 5s infinite alternate;
+    animation-timing-function: ease-in;
+}
+
+.slider li {
+  width: auto;
+  list-style: none;
+}
+
+slider img {
+  width:10%;
+}
+
+@keyframes cambio {
+  0% {margin-left:-400;}
+  20% {margin-left: -400;}
+
+  25% {margin-left: -300;}
+  45% {margin-left: -300;}
+
+  50% {margin-left: -200;}
+  70% {margin-left: -200;}
+
+  75% {margin-left: 0;}
+  100% {margin-left: 0;}
+}
+
+  @media (max-width: 768px){
+    .gjs-cell{
+      width:100%;
+      display:block;
+    }
+  }
